@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Yanghuijing Wang (Leo)
 
 **Full-Stack Developer** | Python & Java Specialist | Agile Practitioner  
-📍 Richmond, BC | 🔗 [Portfolio](https://your-portfolio-link.com) (optional)
+📍 Richmond, BC | 
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:wyhjib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yanghuijing-wang-01459b291)
