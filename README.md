@@ -1,26 +1,52 @@
-# Hi there 👋 I'm 9OwO6 (Leo)
+# 👋 Hi! I'm Yanghuijing Wang (Leo)
 
-**💻 技术栈**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+**Full-Stack Developer** | Python & Java Specialist | Agile Practitioner  
+📍 Richmond, BC | 🔗 [Portfolio](https://your-portfolio-link.com) (optional)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:wyhjib@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yanghuijing-wang-01459b291)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/9Qw06)
+
+## 💻 Technical Arsenal
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
 
-**📚 正在学习**  
-- 机器学习（TensorFlow/PyTorch）
-- Web 全栈开发（React + Node.js）
+**Backend**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot)
 
-**📫 联系我**  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+**DevOps**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-**⚡ Fun Fact**  
-我写了一个 Python 脚本，每天自动给我的 Discord 群组发送猫猫图片！🐱
+## 🚀 Key Achievements
+
+- Built responsive web apps with **React + Spring Boot** stack, improving user engagement by 25%
+- Automated data pipelines using **Python**, reducing processing latency by 20-25%
+- Containerized deployment workflows with **Docker**, achieving 40% faster CI/CD cycles
+- Implemented **Redux** state management to optimize complex application data flow
+- Developed reusable UI components with **TailwindCSS**, cutting development time by 20%
+
+## 🔭 Current Focus
+
+- Enhancing cloud deployment skills (AWS/GCP)
+- Exploring microservices architecture patterns
+- Contributing to open-source projects
+
+## 📈 GitHub Stats
+
+[![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=9Qw06&show_icons=true&theme=radical)](https://github.com/9Qw06)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9Qw06&layout=compact&theme=radical)](https://github.com/9Qw06)
+
+## ⚡ Fun Fact
+
+I once automated my roommate's coffee machine using a Raspberry Pi and Python! ☕
 
 ---
 
-### 🔥 GitHub 数据统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9OwO6&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9OwO6&layout=compact&theme=radical)
+📫 **Let's connect:** Feel free to reach out for collaborations or just to chat about tech!
