@@ -40,8 +40,8 @@
 
 ## 📈 GitHub Stats
 
-[![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=9Qw06&show_icons=true&theme=radical)](https://github.com/9OwO6)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9Qw06&layout=compact&theme=radical)](https://github.com/9OwO6)
+[![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=9OwO6&show_icons=true&theme=radical)](https://github.com/9OwO6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9OwO6&layout=compact&theme=radical)](https://github.com/9OwO6)
 
 ## ⚡ Fun Fact
 
