@@ -1,4 +1,17 @@
-# 👋 Hi! I'm Yanghuijing Wang (Leo)
+# Hi, I'm Leo
+
+AI-assisted development • Rapid prototyping • Real project delivery
+
+## Featured Projects
+- L'Chaim Attendance System Showcase — real-world attendance and booking platform  
+  [GitHub](...) | [Demo](...)
+- BetterThrowingSystem — Duckov gameplay mod showcase  
+  [GitHub](...) | [Steam Workshop](...) | [Demo](...)
+
+## What I do
+- turn ideas into usable prototypes with AI-assisted workflows
+- work from problem definition to iteration, testing, and delivery
+- build and refine projects around real user needs
 
 **Full-Stack Developer** | Python & Java Specialist | Agile Practitioner  
 📍 Richmond, BC | 
