@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Leo banner" width="100%" />
+  <img src="images/banner.png" alt="Leo banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Leo 👋</h1>
