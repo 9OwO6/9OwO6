@@ -17,7 +17,9 @@
 ## 🚀 Featured Projects
 
 ### 🏥 L'Chaim Attendance System Showcase
-<img src="LCHAIM_IMAGE_LINK" alt="L'Chaim preview" width="85%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/9OwO6/lchaim-attendance-system-showcase/main/images/login-page.png" alt="L'Chaim preview" width="85%" />
+</p>
 
 Production-oriented attendance and booking management platform built for real operational use.
 
@@ -25,7 +27,9 @@ Production-oriented attendance and booking management platform built for real op
 - **Demo:** https://youtu.be/o60A8z0n65Y
 
 ### 🎮 BetterThrowingSystem — Duckov Mod Showcase
-<img src="DUCKOV_IMAGE_LINK" alt="Duckov preview" width="85%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/9OwO6/DuckovMod/main/images/preview.png" alt="Duckov preview" width="85%" />
+</p>
 
 AI-assisted gameplay mod showcase built around a real user pain point, shipped to players through Steam Workshop.
 
