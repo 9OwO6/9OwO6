@@ -11,7 +11,6 @@ I build practical web systems, product-style side projects, and user-focused tec
 
 <p>
   <a href="https://www.linkedin.com/in/yanghuijing-wang-01459b291/">LinkedIn</a> •
-  <a href="https://your-portfolio-link.com">Portfolio</a> •
   <a href="mailto:your-email@example.com">Email</a> •
   <a href="https://github.com/9OwO6/DuckovMod">DuckovMod</a>
 </p>
@@ -47,14 +46,6 @@ I build practical web systems, product-style side projects, and user-focused tec
       <br />
       <b>Happy Beans Shop</b><br />
       Full-stack web project focused on practical product delivery and UI implementation.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://your-portfolio-link.com">
-        <img src="./images/portfolio-cover.png" alt="Portfolio" width="100%" />
-      </a>
-      <br />
-      <b>Portfolio</b><br />
-      Selected projects, technical work, and resume.
     </td>
   </tr>
 </table>
