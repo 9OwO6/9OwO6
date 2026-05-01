@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/banner.png" alt="Leo banner" width="100%" />
+  <img src="./images/banner.png?v=20260430" alt="Leo banner" width="100%" />
 </div>
 
 # Hi, I'm Leo 👋
