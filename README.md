@@ -22,21 +22,13 @@ CS graduate based in Richmond, BC. I build practical web systems, automation too
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/9OwO6/lchaim-attendance-system-showcase">
-        <img src="./images/lchaim-cover.png" alt="L'Chaim Attendance System" width="100%" />
-      </a>
-      <br />
-      <b>L'Chaim Attendance System</b><br />
+      <b><a href="https://github.com/9OwO6/lchaim-attendance-system-showcase">L'Chaim Attendance System</a></b><br />
       Full-stack attendance, booking, and reporting platform built around a real senior day centre workflow.<br />
       <br />
       <sub><b>Stack:</b> Next.js, TypeScript, Supabase, PostgreSQL, NextAuth.js, Tailwind CSS</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/9OwO6/DuckovMod">
-        <img src="./images/duckov-cover.png" alt="DuckovMod" width="100%" />
-      </a>
-      <br />
-      <b>DuckovMod</b><br />
+      <b><a href="https://github.com/9OwO6/DuckovMod">DuckovMod</a></b><br />
       C# gameplay quality-of-life mod focused on throwable management, hotkey workflows, and user-driven iteration.<br />
       <br />
       <sub><b>Stack:</b> C#, .NET, Unity-style modding workflow, debugging</sub>
@@ -44,20 +36,13 @@ CS graduate based in Richmond, BC. I build practical web systems, automation too
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/9OwO6/nonggengji-restaurant-website">
-        <b>Nonggengji English Website</b>
-      </a>
-      <br />
+      <b><a href="https://github.com/9OwO6/nonggengji-restaurant-website">Nonggengji English Website</a></b><br />
       English-facing restaurant website designed for Western diners, including menu structure, dish presentation, and responsive UI delivery.<br />
       <br />
       <sub><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Vercel</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/9OwO6/happy-beans">
-        <img src="./images/happybeans-cover.png" alt="Happy Beans" width="100%" />
-      </a>
-      <br />
-      <b>Happy Beans Shop</b><br />
+      <b><a href="https://github.com/9OwO6/happy-beans">Happy Beans Shop</a></b><br />
       Boutique shop web project focused on product display, small-business web presence, and practical UI implementation.<br />
       <br />
       <sub><b>Stack:</b> React / web UI, product-focused frontend delivery</sub>
