@@ -42,10 +42,10 @@ CS graduate based in Richmond, BC. I build practical web systems, automation too
       <sub><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Vercel</sub>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/9OwO6/happy-beans">Happy Beans Shop</a></b><br />
-      Boutique shop web project focused on product display, small-business web presence, and practical UI implementation.<br />
+      <b><a href="https://github.com/9OwO6/flwo">Flow</a></b><br />
+      Privacy-conscious mobile health tracking app for logging body flow patterns, hydration, reminders, and wellness reports.<br />
       <br />
-      <sub><b>Stack:</b> React / web UI, product-focused frontend delivery</sub>
+      <sub><b>Stack:</b> React Native, Expo, TypeScript, local-first storage, mobile UI / UX</sub>
     </td>
   </tr>
 </table>
