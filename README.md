@@ -36,10 +36,10 @@ CS graduate based in Richmond, BC. I build practical web systems, automation too
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/9OwO6/nonggengji-restaurant-website">Nonggengji English Website</a></b><br />
-      English-facing restaurant website designed for Western diners, including menu structure, dish presentation, and responsive UI delivery.<br />
+      <b><a href="https://github.com/9OwO6/wanwan-shutdown-assistant">Wanwan · Bedtime Companion</a></b><br />
+      AI-assisted Windows desktop companion that turns end-of-day into a gentler shutdown routine — animated character, offline Mandarin voice, staged reminders.<br />
       <br />
-      <sub><b>Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Vercel</sub>
+      <sub><b>Stack:</b> PowerShell, WPF, C#, offline TTS</sub>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/9OwO6/flwo">Flow</a></b><br />
